@@ -1,0 +1,2 @@
+JMH S 9 mao.Test1 S 39 mao.generated.Test1_testSleep01_jmhTest S 11 testSleep01 S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 9 mao.Test1 S 39 mao.generated.Test1_testSleep02_jmhTest S 11 testSleep02 S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
